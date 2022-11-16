@@ -1,6 +1,3 @@
-#include <cassert>
-#include <iostream>
-#include <sstream>
 #include <filesystem>
 
 #include <SFML/Graphics.hpp>
